@@ -1,6 +1,6 @@
 const slidesData = [
   {
-    text: "Chào buổi sáng, cô gái anh yêu! Cảm ơn em vì đã xuất hiện và làm cuộc sống của anh trở nên ý nghĩa hơn.",
+    text: "Chào buổi tối, cô gái anh yêu! Cảm ơn em vì đã xuất hiện và làm cuộc sống của anh trở nên ý nghĩa hơn.",
     gif: "https://i.pinimg.com/originals/b6/b1/d6/b6b1d64609f266d8f236752d8551f26f.gif",
   },
   {
@@ -24,7 +24,7 @@ const slidesData = [
     gif: "https://i.pinimg.com/originals/fd/60/15/fd6015dd3f31d0223374f993f66e85d3.gif",
   },
   {
-    text: "Anh yêu em nhiều hơn mỗi ngày. Chúc em luôn bình an, vui vẻ và mãi là cô gái đáng yêu nhất trong tim anh.",
+    text: "Anh yêu em nhiều hơn mỗi ngày. Chúc em luôn bình an, vui vẻ dù mọi chuyện có không như anh mong muốn.",
     gif: "https://i.pinimg.com/originals/56/80/90/5680904ede54bea21d02450affebfc4f.gif",
   },
 ];
